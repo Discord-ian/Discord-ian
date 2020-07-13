@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Working On
-- 💬 [DAW Presence](https://github.com/Discord-ian/DAW-Presence) - Discord Rich Presence For DAWs
+- 💬 [DAW Presence](https://github.com/Discord-ian/DAW-Presence/tree/0.9.9) - Discord Rich Presence For DAWs
 - 🍗 [PUBGy](https://github.com/Discord-ian/pubgy) - A Python API Wrapper for [PUBG](https://developer.pubg.com/)
 
 ### Previously Worked On
-- 💬 [Ableton/FL Presence](https://github.com/Discord-ian/Ableton-Presence)
+- 🔊 [Ableton/FL Presence](https://github.com/Discord-ian/Ableton-Presence) - Discord Rich Presence For Ableton or FL Studio
 
 ## Contact Me
 🐦 [Twitter](https://twitter.com/_discordian)
