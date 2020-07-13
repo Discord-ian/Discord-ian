@@ -1,4 +1,4 @@
-### Hi there 👋
+## Discordian - (he/they)
 
 <!--
 **Discord-ian/Discord-ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Working On
+- 💬 [DAW Presence](https://github.com/Discord-ian/DAW-Presence) - Discord Rich Presence For DAWs
+- 🍗 [PUBGy](https://github.com/Discord-ian/pubgy) - A Python API Wrapper for [PUBG](https://developer.pubg.com/)
+
+### Previously Worked On
+- 💬 [Ableton/FL Presence](https://github.com/Discord-ian/Ableton-Presence)
+
+## Contact Me
+🐦 [Twitter](https://twitter.com/_discordian)
