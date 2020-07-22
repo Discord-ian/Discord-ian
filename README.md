@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Working On
 - 💬 [DAW Presence](https://github.com/Discord-ian/DAW-Presence/tree/0.9.9) - Discord Rich Presence For DAWs
 - 🍗 [PUBGy](https://github.com/Discord-ian/pubgy) - A Python API Wrapper for [PUBG](https://developer.pubg.com/)
+- 🕙 [Doomsday Clock](https://discord-ian.github.io/doomsdayclock/) - A website containing information on the Doomsday Clock
 
 ### Previously Worked On
 - 🔊 [Ableton/FL Presence](https://github.com/Discord-ian/Ableton-Presence) - Discord Rich Presence For Ableton or FL Studio
