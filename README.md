@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 ### Previously Worked On
 - 🔊 [Ableton/FL Presence](https://github.com/Discord-ian/Ableton-Presence) - Discord Rich Presence For Ableton or FL Studio
 
-## Contact Me
-🐦 [Twitter](https://twitter.com/_discordian)
